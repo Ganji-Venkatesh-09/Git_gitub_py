@@ -44,6 +44,18 @@ def myfunc():
 myfunc()
 print("Python " + x)
 
+a = 10
+b = 3.14
+result1 = a + b
+result2 = int(b) * a 
+print(f"sum : {result1}, product: {result2}")
+
+x = 585
+y = 92735.6475
+result1 = x + y 
+result2 = int(y) * x
+print(f"veky: {result1}, don: {result2}")
+
 
 
 
