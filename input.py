@@ -56,6 +56,13 @@ result1 = x + y
 result2 = int(y) * x
 print(f"veky: {result1}, don: {result2}")
 
+num_str = "9875444"
+converted = int(num_str) + 877665
+print(converted)
+
+str_num = '999'
+converted = int(str_num) + 8
+print(converted)
 
 
 
