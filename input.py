@@ -64,8 +64,8 @@ str_num = '999'
 converted = int(str_num) + 8
 print(converted)
 
-
-
+l1 = [2,4,3]
+l2 = [5,6,4]
 
 
 
